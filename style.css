@@ -1,3 +1,68 @@
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo span {
+    color: #2e2f42;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+nav ul li a:hover {
+    color: #404bbf;
+}
+
+nav ul li a:focus {
+    color: #404bbf;
+}
+
+address {
+    font-style: normal;
+}
+
+address ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+address ul li a {
+    text-decoration: none;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+address ul li a:hover {
+    color: #404bbf;
+}
+
+address ul li a:focus {
+    color: #404bbf;
+}
 
 
 

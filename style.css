@@ -7,6 +7,12 @@
 
 
 
+.footer {
+    background-color: #2e2f42;
+    padding: 20px;
+    color: #4d5ae5;
+}
+
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;

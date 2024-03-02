@@ -184,10 +184,10 @@ body {
   }
   
   /* <!-- Sektion-4 --> */
-  .our-portfolio {
+.our-portfolio {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.11111;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -197,21 +197,21 @@ body {
   .cart-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
   }
   .cart-content {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.11;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   }
   
   /* <!-- Footer --> */
   
-  .footer {
+.footer {
   background: #2e2f42;
   width: 1440px;
   height: 312px;

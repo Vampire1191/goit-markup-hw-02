@@ -36,9 +36,6 @@ color: #4d5ae5;
 }
 
 .menu-elements {
-
-display: flex;
-flex-direction: column;
 background: #fff;
 text-align:  center;
 line-height: normal;
@@ -83,8 +80,6 @@ font-style: normal;
 
 .box-hero-image {
 box-sizing: content-box;
-width: 1440px;
-height: 600px;
 background: #2e2f42;
 }
 
@@ -120,10 +115,7 @@ background: #2e2f42;
 
 /* <!-- Section-2 --> */
 
-.light-bg {
-  width: 1440px;
-  height: 732px; 
-}
+
 
 .advantages {
 background-color: #F4F4FD;
@@ -213,8 +205,6 @@ color: #434455;
 
 .footer {
 background: #2e2f42;
-width: 1440px;
-height: 312px;
 }
 
 .footer-text {

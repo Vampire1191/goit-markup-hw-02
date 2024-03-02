@@ -9,10 +9,7 @@ body {
   /* top-line-header */
   
   
-  .menu {
-  display: flex;
-  flex-direction: row;
-  }
+
   
   .logo {
   font-family: "Raleway", sans-serif;
@@ -120,10 +117,6 @@ body {
   
   /* <!-- Section-2 --> */
   
-  .light-bg {
-    width: 1440px;
-    height: 732px; 
-  }
   
   .advantages {
   background-color: #F4F4FD;
@@ -184,10 +177,11 @@ body {
   }
   
   /* <!-- Sektion-4 --> */
-  .our-portfolio {
+.our-portfolio {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -195,6 +189,7 @@ body {
   }
   
   .cart-title {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -202,6 +197,7 @@ body {
   color: #2e2f42;
   }
   .cart-content {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;

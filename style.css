@@ -10,8 +10,8 @@ body {
 
 
 .menu {
-display: flex;
-flex-direction: row;
+text-decoration: none;
+list-style: none;
 }
 
 .logo {
